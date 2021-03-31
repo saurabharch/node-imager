@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "graphicsmagick-stream": "2.0.1",
-    "pkgcloud": "0.9.6",
+    "pkgcloud": "1.4.0",
     "mime": "1.2.11",
     "debug": "2.0.0",
     "co": "3.1.0"
